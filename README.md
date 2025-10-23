@@ -21,3 +21,19 @@ django-admin startproject core
 
 python manage.py startapp products
 
+// migracoes do banco de dados
+
+python manage.py makemigrations
+
+// migrar
+
+python manage.py migrate
+
+// criar super usuario
+
+python manage.py createsuperuser
+
+// fazer servidor funcionar localmente
+
+
+
